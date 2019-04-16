@@ -1,4 +1,4 @@
 ### Hsien-Feng(Sam) Hou
-#### It is used to show my work.
+#### Project List
 ##### 1. Restaurant Revenue Prediction
 ##### 2. Customer Dataset Analysis By Tableau
